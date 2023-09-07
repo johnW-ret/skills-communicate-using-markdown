@@ -21,3 +21,9 @@ var fbc = Enumerable.Range(1, 100)
 
 Console.WriteLine(string.Join('\n', fbc));
 ```
+
+# Task list
+- [x] Follow Microsoft Learn course for C#
+- [x] Install Polyglot Notebooks extension on VS Code
+- [x] Install C# Dev Kit on VS Code
+- [ ] Become C# expert
